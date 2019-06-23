@@ -76,9 +76,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Lauren Boyer
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/lboyer4/Node-Http-server-mod4/blob/master/server.js)
+* [Annotated Express server file](https://github.com/SallyHaefling/sticky-dos-api/blob/annotate-lb/app.js)
+* [Promise Practice Exercises](https://repl.it/@lboyer4/Promises-Prework)
 
 ## Lynne Rang
 
